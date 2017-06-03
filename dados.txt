@@ -1,0 +1,116 @@
+Banco de Dados
+BD1
+Projeto de Banco de Dados Vol. 4
+Autor: Heuser,Carlos Alberto, Bookman
+Descrição: Em sua sexta edição e adotado por faculdades de todo o Brasil, 'Projeto de Banco de Dados' aborda as duas primeiras etapas do ciclo de vida de um banco de dados: modelagem conceitual e projeto lógico.
+<br> Valor: R$ 90,00
+
+BD2
+Projeto e Modelagem de Bancos de Dados - 2ª Ed
+Autor: Nadeau, Tom / Lightstone, Sam / Teorey, Toby J. Elsevier - Campus
+Descrição: A tecnologia de projeto de banco de dados passou por uma evolução significativa nos últimos anos, à medida que as aplicações comerciais têm sido dominadas pelo modelo de dados relacional. Esse modelo tem permitido que o projetista de banco de dados foque separadamente o projeto lógico — definindo os relacionamentos de dados e tabelas – e o projeto físico – armazenando e recuperando dados do repositório físico de maneira eficiente. Por sua vez, outras novas tecnologias, como data warehousing, OLAP e data mining, também tiveram um impacto importante na área. Esta nova edição concentra-se no projeto lógico dos sistemas de banco de dados relacionais, utilizando-se de duas abordagens — entidade-relacionamento (ER) e Unified Modeling Language (UML) — usadas no texto para todos os exemplos de modelagem de dados, de modo que o leitor pode selecionar qualquer uma (ou ambas) para ajudar a acompanhar a metodologia do projeto lógico. Outro diferencial está na apresentação objetiva das técnicas de modelagem conceitual e projeto lógico de bancos de dados considerando o seu ciclo de vida. A utilização de um estudo de caso sintetizando as técnicas abordadas, a apresentação das principais questões do projeto lógico de banco de dados na inteligência de negócios e uma discussão comparativa das ferramentas de software mais populares atualmente disponíveis dão ao livro um requinte de pragmatismo e agilidade na aprendizagem e aplicação das técnicas de modelagem e projeto de bancos de dados.
+<br> Valor: R$ 130,00
+
+BD3
+Sistemas de Banco de Dados - Col. Saraiva
+Autor: Cardoso,Virgínia / Cardoso,Giselle. Saraiva
+Descrição: Em texto introdutório, as autoras apresentam tópicos que levam o aluno a conhecer o universo do banco de dados, apresentando como projetar, construir e popular um banco de dados por meio de exemplos didáticos e práticos. De forma a facilitar o aprendizado, este texto proporciona ferramentas para que o aluno seja capaz de desenvolver de forma independente um banco de dados com armazenamento seguro e que ofereça uma pesquisa rápida e eficaz.
+<br> Valor: R$ 50,00
+
+
+Computação Gráfica
+CG1
+Computação Gráfica Vol 2
+Autor: Azevedo, Eduardo / Conci,Aura / Leta, Fabiana. Campus
+Descrição: Aborda um conjunto de tópicos relacionados ao processamento de imagens digitais e visão computacional. Além de seu uso acadêmico, o livro traz um conjunto de informação fundamental à compreensão e uso em toda a potencialidade dos softwares de geração e tratamento de imagens do mercado ( como CorelDraw e Photoshop ). Entender como o cérebro juntamente com os olhos processa as informações para compor a nossa visão e percepção dos objetos é fundamental para se produzir imagens mais reais no mundo computacional. Outro tópico bastante interessante é sobre a compactação de arquivos explicado de maneira simples a princípio e posteriormente aprofundada com algoritmos e fórmulas.
+<br> Valor: R$ 170,00
+
+CG2
+Fundamentos de Computação Gráfica
+Autor: Gonçalves,Marcio da Silva. Editora Érica
+Descrição: Trata da importância dos recursos da computação gráfica e de sua evolução ao longo do tempo e aborda a Física aplicada à computação gráfica, as bibliotecas gráficas usadas para o desenvolvimento de interfaces gráficas e o uso de primitivas básicas, que se fazem presentes em todos os nichos que usam a computação gráfica. Aborda a importância da inteligência artificial nos sistemas computacionais e na computação gráfica, além de oferecer uma visão geral do mercado de trabalho e das áreas de atuação para os profissionais da área. Exercícios práticos, dicas de pesquisa e de ferramentas também estão presentes na obra, a fim de facilitar a fixação dos conteúdos apresentados e de orientar o leitor na busca de informações. O conteúdo pode ser aplicado para os cursos técnicos Computação Gráfica, Marketing, Programação de Jogos Digitais, entre outros.
+<br> Valor: R$ 60,00
+
+CG3
+Processamento Digital De Imagens - 3ª Ed
+Autor: Gonzalez,Rafael C. / Woods,Richard E. Pearson Education - Br
+Descrição: Este livro traz todos os conceitos-chave da área de processamento de imagens, como fundamentos da imagem digital, transformações de intensidade e filtragem espacial, restauração, processamento de imagens coloridas, wavelets e compressão de imagens. Com uma estrutura cuidadosamente planejada para fazer com que o tema seja de fácil compreensão para o leitor, ele é ideal para graduandos e pós-graduandos das áreas de ciência e engenharia da computação, além de ser um ótimo compêndio para estudantes de cursos de especialização nas áreas de matemática, medicina e oceanografia, entre outras.
+<br> Valor: R$ 190,00
+
+Linguagem de Programação
+LP1
+Conceitos de Linguagens de Programação - 9ª Ed. - 2011 
+Autor: Sebesta,Robert W. Bookman
+Descrição: Conceitos de Linguagens de Programação apresenta as principais construções das linguagens de programação contemporâneas e oferece as ferramentas necessárias para uma avaliação crítica das linguagens de programação existentes e futuras. A obra é ideal para estudantes de ciências da computação e programadores, pois mostra como escolher a linguagem adequada para determinadas tarefas e aumenta a habilidade de aprender novas linguagens.
+<br> Valor: R$ 200,00
+
+LP2
+Java - Como Programar - 10ª Ed. 2016
+Autor: Deitel. Prentice Hall
+Descrição: Milhões de alunos e profissionais aprenderam programação e desenvolvimento de software com os livros Deitel®. Java: como programar, 10ª edição, fornece uma introdução clara, simples, envolvente e divertida à programação Java com ênfase inicial em objetos. Destaques incluem: rica cobertura dos fundamentos com exemplos reais; apresentação com ênfase inicial em classes e objetos; uso com Java™ SE 7, Java™ SE 8 ou ambos; Java™ SE 8 abordado em seções modulares opcionais; lambdas, fluxos e interfaces funcionais usando métodos padrão e estáticos do Java SE 8; Swing e GUI do JavaFX: elementos gráficos e multimídia; conjunto de exercícios 'Fazendo a diferença'; tratamento de exceções integrado; arquivos, fluxos e serialização de objetos; concorrência para melhor desempenho com multiprocessamento; o livro contém o conteúdo principal para cursos introdutórios; outros tópicos: recursão, pesquisa, classificação, coleções genéricas, estruturas de dados, multithreading, banco de dados (JDBC ™ e JPA).
+<br> Valor: R$ 300,00
+
+LP3
+Html e Css - Projete e Construa Websites
+Autor: Duckett, Jon. Alta Books
+Descrição: Se você quer projetar, construir do zero ou ter mais controle sobre um site existente, este livro lhe ajudará a criar conteúdos atrativos e amigáveis. Sabemos que código pode ser um pouco intimidador, mas dê uma olhada e veja como este guia difere dos livros de programação mais tradicionais. Toda as páginas apresentam um novo tópico e maneira simples e visual, com explicações diretas acompanhadas das amostras de código. Você encontrará ajuda em como organizar e projetar as páginas do seu site para que possa criar websites fantásticos e fáceis de usar. Não é necessário ter experiência!
+<br> Valor: R$ 130,00
+
+Matemática
+MT1
+Cálculo - Vol. 1
+Autor: Stewart, James. Cengage Learning
+Descrição: Dando ênfase à compreensão dos conceitos, James Stewart inicia a obra oferecendo uma visão geral do assunto para, em seguida, apresentá-lo em detalhes, por meio da formulação de problemas, exercícios, tabelas e gráficos. A obra está dividida em dois volumes : Vol. 1 – capítulos 1 a 8 e Vol. 2 – capítulos 9 a 17. Esta edição de Cálculo traz diversas inovações em relação à edição anterior: dados de exemplos e exercícios foram atualizados, novos exemplos foram incluídos, algumas resoluções de exemplos foram ampliadas e mais de 20% de exercícios em cada capítulo são novos. Assim como na edição anterior, a obra apresenta exercícios graduados, com progressão cuidadosamente planejada dos conceitos básicos até problemas complexos e desafiadores. Neste volume: funções e modelos, limites e derivadas, regras de derivação, aplicações de derivação, integrais, aplicações de integração, técnicas de integração e mais aplicações de integração.
+<br> Valor: R$ 110,00
+
+MT2
+Cálculo - Vol. 2
+Autor: Stewart, James. Cengage Learning
+Descrição: Cálculo foi escrito originalmente na forma de um curso. Sempre dando ênfase à compreensão dos conceitos, James Stewart inicia a obra oferecendo uma visão geral do assunto para, em seguida, apresentá-lo em detalhes, por meio da formulação de problemas, exercícios, tabelas e gráficos. A obra está dividida em dois volumes: Vol. 1 – capítulos 1 a 8 e Vol. 2 – capítulos 9 a 17. Esta edição de Cálculo traz diversas inovações em relação à edição anterior: dados de exemplos e exercícios foram atualizados, novos exemplos foram incluídos, algumas resoluções de exemplos foram ampliadas e mais de 20% de exercícios em cada capítulo são novos. Assim como na edição anterior, a obra apresenta exercícios graduados, com progressão cuidadosamente planejada dos conceitos básicos até problemas complexos e desafiadores. Neste volume: equações diferenciais, equações paramétricas e coordenadas polares, sequências e séries infinitas, vetores e a geometria do espaço, funções vetoriais, derivadas parciais, integrais múltiplas, cálculo vetorial, equações diferenciais de segunda ordem.
+<br> Valor: R$ 190,00
+
+MT3
+Álgebra Linear Com Aplicações - 10ª Ed
+Autor: Anton, Howard. Bookman
+Descrição: Esta edição, no espírito das anteriores, dá um tratamento elementar à álgebra linear e suas aplicações, ideal para estudantes universitários de primeiro e segundo anos. O objetivo é apresentar os fundamentos da álgebra linear e suas aplicações da maneira mais clara possível. O cálculo não é pré-requisito, mas há exemplos e exercícios claramente assinalados para alunos que têm conhecimento de cálculo. Estes exercícios podem ser omitidos sem perda de continuidade.
+<br> Valor: R$ 130,00
+
+Redes de Computadores
+RC1
+Redes e Sistemas de Comunicação de Dados
+Autor: Stalling, Willian. Campus
+Descrição: Reúne o que há de mais avançado em Redes de Computadores, a interface com Telecomunicações e Sistemas de Gerenciamento de Dados Empresariais. Este livro aborda detalhadamente os fundamentos de comunicação de dados, essenciais para o gerenciamento de negócios e de informação. O livro foi estruturado para atender às necessidades dos cursos de Computação e público profissional.
+<br> Valor: R$ 215,00
+
+RC2
+Redes de Computadores e A Internet - Uma Abordagem Top-Down - 6ª Ed. 2013
+Autor: Ross,Keith W. / Kurose,Jim. Pearson Education - Br
+Descrição: Seguindo o sucesso da abordagem top-down de suas edições anteriores, “Redes de computadores e a Internet” continua focando em camadas de aplicação e interfaces de programação, propondo ao leitor uma experiência prática com os conceitos de protocolo e redes de computadores antes de trabalhar com mecanismos de transmissão de informação das camadas inferiores das pilhas de protocolos. Em sua sexta edição, além de manter essa característica inovadora, a obra adota o Python em suas aplicações e explora temas recentes e importantes, como as redes 4G e os serviços em nuvem. É indicada para alunos de graduação em ciências da computação, engenharia da computação, análise e desenvolvimento de sistemas e sistemas de informação.
+<br> Valor: R$ 170,00
+
+RC3
+Segurança Em Redes - Fundamentos
+Autor: Moraes,Alexandre Fernandes de. Editora Érica
+Descrição: Este livro serve de referência bibliográfica ou livro-texto para o aprendizado de estudantes das áreas técnicas,
+ de análise de sistemas e de tecnologia, também voltado ao público em geral. É fruto de um trabalho desenvolvido ao longo
+ da experiência profissional de 17 anos do autor e do trabalho como docente das disciplinas Redes de Computadores e Segurança e Auditoria no UNIFIEO (Centro Universitário FIEO).
+<br> Valor: R$ 122,00
+
+Sistemas Operacionais
+SO1
+Sistemas Operacionais Modernos - 3ª Ed. 2010
+Autor: Tanenbaum, Andrew S. Prentice Hall
+Descrição: Escrito por um do maiores nomes em computação no mundo, este livro é a chave para entender desde a história e os fundamentos dos sistemas operacionais até os mais recentes avanços tecnológicos na área. Segurança de computadores, sistemas operacionais multimídia e projeto de sistemas operacionais são alguns dos temas apresentados. O livro ainda descreve em detalhes os principais sistemas operacionais em uso, entre os quais o Linux, o Unix e o Windows 2000.
+<br> Valor: R$ 300,00
+
+SO2
+Análise e Projeto de Sistemas - 2ª Ed. 2012
+Autor: Dennis,Alan / Wixom,Barbara Haley. LTC
+Descrição: A análise e projeto de sistemas (SAD, Systems Analysis and Design) é um campo ativo e empolgante, no qual os analistas aprendem continuamente novas técnicas e abordagens para desenvolver sistemas de forma mais efetiva e eficiente. No entanto, há um conjunto principal de habilidades que todos os analistas precisam conhecer — independentemente da abordagem ou da metodologia usada. Todos os projetos de sistemas de informações passam por quatro fases — planejamento, análise, projeto e implementação; todos os projetos exigem que os analistas reúnam os requisitos, modelem as necessidades da empresa e criem planos de como o sistema deve ser desenvolvido; e requer um conhecimento de conceitos de comportamento organizacional, como o gerenciamento de mudanças e o desenvolvimento de equipes. Análise e Projeto de Sistemas aborda os aspectos dinâmicos desse domínio de conhecimento, mantendo os alunos concentrados na execução da SAD, ao mesmo tempo em que apresenta o núcleo de habilidades que achamos que todo analista de sistemas precisa ter atualmente e no futuro. Cada capítulo descreve uma fase do processo, fornece explicações claras sobre como executá-lo, demonstra um exemplo detalhado e, em seguida, apresenta exercícios para os alunos praticarem.
+<br> Valor: R$ 175,00
+
+SO3
+Sistemas Operacionais - Projeto e Implementação
+Autor: Tanenbaum, Andrew S. Bookman
+Descrição: Este é o único livro didático sobre sistemas operacionais que consegue equilibrar a teoria e a prática. Os autores atingem essa importante meta cobrindo, primeiro, todos os conceitos fundamentais dos sistemas operacionais, tais como processos, comunicação interprocesso, entrada/saída, memória virtual, sistemas de arquivos e de segurança. Estes princípios são, então, ilustrados através do uso de um pequeno sistema operacional real, semelhante ao UNIX, chamado MINIX, que permite aos alunos testar seus conhecimentos em projetos práticos. O livro inclui um CD-ROM com o código-fonte completo do MINIX e dois simuladores para operar o MINIX em vários computadores.
+<br> Valor: R$ 260,00
